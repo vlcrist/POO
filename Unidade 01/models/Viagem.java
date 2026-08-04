@@ -1,9 +1,11 @@
 package models;
 
+import java.util.ArrayList;
+
 public class Viagem {
     
     Pessoa passageiro;
-    Arraylist<Destinos> destinos;
-    Arraylist<Passagem> passagens;
+    ArrayList<Destinos> destinos;
+    ArrayList<Passagem> passagens;
 
 }

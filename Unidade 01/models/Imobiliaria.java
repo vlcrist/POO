@@ -1,9 +1,11 @@
 package models;
 
+import java.util.ArrayList;
+
 public class Imobiliaria {
     
     Pessoa proprietario;
     Endereco endereco;
-    Arraylist<Imovel> imoveis;
+    ArrayList<Imovel> imoveis;
 
 }
